@@ -1,0 +1,5 @@
+﻿  main.c
+  mapping.c
+  Generating Code...
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\week8\week8\mapping.c(298): warning C4716: 'assignShipmentToTruck': must return a value
+  week8.vcxproj -> C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\week8\x64\Debug\week8.exe

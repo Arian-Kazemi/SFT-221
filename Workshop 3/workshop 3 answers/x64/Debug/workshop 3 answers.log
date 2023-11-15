@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (workshop 3 answers.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  project.c
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 3\workshop 3 answers\project.c(21,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  workshop 3 answers.vcxproj -> C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 3\workshop 3 answers\x64\Debug\Unittest.exe

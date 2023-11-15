@@ -1,0 +1,35 @@
+﻿  L07_ID_LASTNAME.cpp
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(8,5): error C2653: 'sql': is not a class or namespace name
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(8,17): error C2065: 'MySQL_Driver': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(8,31): error C2065: 'driver': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(9,5): error C2653: 'sql': is not a class or namespace name
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(9,10): error C2065: 'Connection': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(9,22): error C2065: 'conn': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(10,5): error C2653: 'sql': is not a class or namespace name
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(10,10): error C2065: 'Statement': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(10,21): error C2065: 'stmt': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(11,5): error C2653: 'sql': is not a class or namespace name
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(11,10): error C2065: 'ResultSet': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(11,21): error C2065: 'rs': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(14,5): error C2065: 'driver': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(14,14): error C2653: 'sql': is not a class or namespace name
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(14,26): error C3861: 'get_mysql_driver_instance': identifier not found
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(15,5): error C2065: 'conn': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(15,12): error C2065: 'driver': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(16,5): error C2065: 'conn': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(19,5): error C2065: 'stmt': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(19,12): error C2065: 'conn': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(20,5): error C2065: 'rs': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(20,10): error C2065: 'stmt': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(23,9): error C2065: 'rs': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(27,16): error C2065: 'rs': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(28,34): error C2065: 'rs': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(29,32): error C2065: 'rs': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(30,31): error C2065: 'rs': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(31,28): error C2065: 'rs': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(41,12): error C2065: 'rs': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(41,14): error C2541: 'delete': cannot delete objects that are not pointers
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(42,12): error C2065: 'stmt': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(42,16): error C2541: 'delete': cannot delete objects that are not pointers
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(43,12): error C2065: 'conn': undeclared identifier
+C:\Users\Arian\Desktop\Seneca\SFT 221\Workshop 8\Lab7\Lab7\L07_ID_LASTNAME.cpp(43,16): error C2541: 'delete': cannot delete objects that are not pointers
